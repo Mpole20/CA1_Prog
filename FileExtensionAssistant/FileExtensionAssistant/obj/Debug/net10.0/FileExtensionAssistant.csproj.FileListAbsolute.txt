@@ -1,0 +1,14 @@
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\bin\Debug\net10.0\FileExtensionAssistant.exe
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\bin\Debug\net10.0\FileExtensionAssistant.deps.json
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\bin\Debug\net10.0\FileExtensionAssistant.runtimeconfig.json
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\bin\Debug\net10.0\FileExtensionAssistant.dll
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\bin\Debug\net10.0\FileExtensionAssistant.pdb
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.AssemblyInfoInputs.cache
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.AssemblyInfo.cs
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.csproj.CoreCompileInputs.cache
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.dll
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\refint\FileExtensionAssistant.dll
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.pdb
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\FileExtensionAssistant.genruntimeconfig.cache
+C:\C# programs\FileExtensionAssistant\FileExtensionAssistant\obj\Debug\net10.0\ref\FileExtensionAssistant.dll
