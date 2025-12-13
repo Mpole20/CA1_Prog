@@ -1,0 +1,14 @@
+C:\Python files\CA1Q2\bin\Debug\net8.0\FileExtensionAssistant.exe
+C:\Python files\CA1Q2\bin\Debug\net8.0\FileExtensionAssistant.deps.json
+C:\Python files\CA1Q2\bin\Debug\net8.0\FileExtensionAssistant.runtimeconfig.json
+C:\Python files\CA1Q2\bin\Debug\net8.0\FileExtensionAssistant.dll
+C:\Python files\CA1Q2\bin\Debug\net8.0\FileExtensionAssistant.pdb
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.AssemblyInfoInputs.cache
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.AssemblyInfo.cs
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.csproj.CoreCompileInputs.cache
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.dll
+C:\Python files\CA1Q2\obj\Debug\net8.0\refint\FileExtensionAssistant.dll
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.pdb
+C:\Python files\CA1Q2\obj\Debug\net8.0\FileExtensionAssistant.genruntimeconfig.cache
+C:\Python files\CA1Q2\obj\Debug\net8.0\ref\FileExtensionAssistant.dll
