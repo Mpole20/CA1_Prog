@@ -1,0 +1,14 @@
+C:\Python files\CA1Q1.1\bin\Debug\net8.0\AccountApp.exe
+C:\Python files\CA1Q1.1\bin\Debug\net8.0\AccountApp.deps.json
+C:\Python files\CA1Q1.1\bin\Debug\net8.0\AccountApp.runtimeconfig.json
+C:\Python files\CA1Q1.1\bin\Debug\net8.0\AccountApp.dll
+C:\Python files\CA1Q1.1\bin\Debug\net8.0\AccountApp.pdb
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.AssemblyInfoInputs.cache
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.AssemblyInfo.cs
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.csproj.CoreCompileInputs.cache
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.dll
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\refint\AccountApp.dll
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.pdb
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\AccountApp.genruntimeconfig.cache
+C:\Python files\CA1Q1.1\obj\Debug\net8.0\ref\AccountApp.dll
